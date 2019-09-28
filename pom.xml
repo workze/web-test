@@ -13,6 +13,8 @@
     <modules>
         <module>springboot</module>
         <module>dropwizard</module>
+        <module>vertx</module>
+        <module>netty</module>
     </modules>
 
 </project>
